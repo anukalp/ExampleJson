@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FlightScheduler</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="sort_by">Sort by</string>
+    <string name="sort_price">Fare</string>
+    <string name="sort_take_off">Take Off</string>
+    <string name="sort_landing">Landing</string>
+    <string name="hintText">Enter fare</string>
+    <string name="hint">Enter text</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="depart">Depart</string>
+    <string name="arrive">Arrive</string>
+    <string name="clear">Clear All</string>
+    <string name="enter">Apply</string>
+    <string name="business">Business</string>
+    <string name="economy">Economy</string>
+    <string name="flight_class">Class</string>
+    <string name="start_time">Start</string>
+    <string name="end_time">End</string>
+    <string name="time_tokenizer"> - </string>
+
+</resources>
